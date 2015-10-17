@@ -1,0 +1,16 @@
+SQLServer:
+       server: (local)
+       user: sa
+       password: sa2012
+       database: experimentaldb
+       table: BDPlayers
+Redshift:
+       host: <cluster end point>
+       user: <user name>
+       password: <password>
+       database: <database name>
+       table: <table name>
+S3Config:
+  AWS_ACCESS_KEY_ID: <AWS_ACCESS_KEY_ID>
+  AWS_SECRET_ACCESS_KEY: <AWS_SECRET_ACCESS_KEY>
+  bucket_name: <s3 bucket name>
