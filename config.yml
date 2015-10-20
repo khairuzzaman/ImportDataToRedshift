@@ -1,7 +1,7 @@
 SQLServer:
        server: (local)
-       user: sa
-       password: sa2012
+       user: 
+       password: 
        database: experimentaldb
        table: BDPlayers
 Redshift:
